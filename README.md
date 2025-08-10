@@ -9,6 +9,7 @@
 - Create a NavBar.jsx separate Component file
 - Create BrowserRouter > Router > Route= /Body > RouteChildren
 - Create an Outlet in Body Component
+- Create a Footer 
 
 
 
